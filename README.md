@@ -64,4 +64,4 @@ Smoke<p>
 
 ## Контактная информация
 - Email: stanislav.marinich@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/stasmarinich/)
+- LinkedIn: https://www.linkedin.com/in/stasmarinich/
